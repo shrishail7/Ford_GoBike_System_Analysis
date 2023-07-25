@@ -31,9 +31,9 @@ Average trip duration in minutes:
 
 ## Key Insights for Presentation
 
-For the presentation:\
+For the presentation:
 * I focus on just  looking at the time of the day and the day of the week that most trips are taken
 * how long does the average trip take? and 
-* check if the results depend on if a user is a subscriber or a customer.\
+* check if the results depend on if a user is a subscriber or a customer.
 * The presentation showed that there indeed is a dependency of the average trip duration on if a user is a subscriber or a customer. On average, customers rides lasted longer than subscribers rides on every day of the week and time of the day
 
